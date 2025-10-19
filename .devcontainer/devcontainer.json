@@ -48,7 +48,7 @@
       ]
     }
   },
-  "onCreateCommand": "if [ \"$CODESPACES\" = \"true\" ]; then echo 'In Codespaces",
+  "onCreateCommand": "if [ \"$CODESPACES\" = \"true\" ]; then echo \"In Codespaces\"; fi",
   "postCreateCommand": "uv venv .venv",
   "postStartCommand": "bash source .devcontainer/.bashrc",
   "forwardPorts": [
