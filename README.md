@@ -1,2 +1,6 @@
 # pleroma
-The BULK is fully quantized, parameterized, and metered by the special-conformal poincare Poincaré sphere - the 'metric', the 'curvature' is "runtime".
+The BULK is fully quantized, parameterized, and metered by the special-conformal Poincaré sphere from the outside-in via freefall or descent - the 'metric', the 'curvature' is "runtime". Inspired by W.V.O. Quine's Epistimology.
+
+<a href="https://github.com/Morphological-Source-Code/pleroma">pleroma</a> © 2025 by <a href="https://github.com/Phovos">Phovos</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+Non-derivative license establishes this, the referred-to repository, as the single source of truth for 'pleroma'. 'pleroma' is affiliated with 'MOONLAPSED@gmail.com's 'Morphological Source Code' in a non-trivial way; it shares author(s), amongst other things.
